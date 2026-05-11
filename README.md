@@ -204,3 +204,10 @@ Emoji:
 
 :mask:
 
+**Friend 1:** zhanghanrui - ID: 20232098
+
+---
+My info:
+Name: Zhang Hanrui
+Student ID: 20232098
+GitHub Username: Z1RO014011
